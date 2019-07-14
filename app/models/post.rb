@@ -21,6 +21,6 @@ def categories_attributes=(categories_hashes)
       end
     end
   end
-end
+ end
 
 end
